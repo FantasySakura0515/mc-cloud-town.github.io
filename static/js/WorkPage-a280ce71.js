@@ -1,0 +1,1 @@
+import{_ as a,c as s,b as n,F as e,e as r,o as l,f as o}from"./app-7409f5af.js";const t={},f=r("div",null,null,-1);var u=a(t,[["render",function(a,r){const t=o("GeneralHead");return l(),s(e,null,[n(t),f],64)}]]);export{u as default};
